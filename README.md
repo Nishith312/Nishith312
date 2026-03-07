@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Nishith Prajapati — Flutter Developer • Backend Engineer • AI/ML Enthusiast" width="100%" />
+  <img src="./assets/banner_short.png" alt="Nishith Prajapati — Flutter Developer • Backend Engineer • AI/ML Enthusiast" width="100%" />
 </p>
 
 <p align="center">
