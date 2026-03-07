@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nishith.yunawise.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Backend+%26+AI+Engineer+%7C+Flutter+Developer;Building+Scalable+Apps+%26+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Flutter+Developer+%7C+Backend+%26+AI+Engineer;Building+Scalable+Apps+%26+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </p>
 
