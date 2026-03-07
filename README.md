@@ -85,15 +85,7 @@ I'm **Nishith Prajapati** — a Flutter Specialist and Backend Engineer crafting
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-eight.vercel.app/?username=Nishith312&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=10&rank=-?" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🏙️ 3D Contribution Graph
+## ️ 3D Contribution Graph
 
 <p align="center">
   <picture>
