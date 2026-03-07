@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/banner_short.png" alt="Nishith Prajapati — Flutter Developer • Backend Engineer • AI/ML Enthusiast" width="100%" />
-</p>
+![Nishith Prajapati — Flutter Developer • Backend Engineer • AI/ML Enthusiast](./assets/banner_short.png)
 
 <p align="center">
   <a href="https://nishith.yunawise.com">
