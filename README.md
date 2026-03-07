@@ -75,12 +75,12 @@ I'm **Nishith Prajapati** — a Flutter Specialist and Backend Engineer crafting
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishith312&show_icons=true&theme=radical&hide_border=true&border_radius=12&count_private=true&bg_color=0d1117" alt="Nishith's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nishith312&show_icons=true&theme=radical&hide_border=true&border_radius=12&count_private=true&bg_color=0d1117" alt="Nishith's GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nishith312&theme=radical&hide_border=true&border_radius=12&background=0D1117" alt="Nishith's Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishith312&layout=compact&theme=radical&hide_border=true&border_radius=12&bg_color=0d1117&langs_count=8" alt="Top Languages" width="42%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nishith312&layout=compact&theme=radical&hide_border=true&border_radius=12&bg_color=0d1117&langs_count=8" alt="Top Languages" width="42%" />
 </p>
 
 ---
@@ -88,18 +88,18 @@ I'm **Nishith Prajapati** — a Flutter Specialist and Backend Engineer crafting
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nishith312&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=Nishith312&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏙️ 3D Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishith312/Nishith312/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishith312/Nishith312/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Nishith312/Nishith312/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishith312/Nishith312/output/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishith312/Nishith312/output/profile-green-animate.svg" />
+    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Nishith312/Nishith312/output/profile-night-view.svg" />
   </picture>
 </p>
 
