@@ -1,10 +1,7 @@
-<img src="./assets/banner_short.png" alt="Nishith Prajapati — Flutter Developer • Backend Engineer • AI/ML Enthusiast" width="100%" />
+<img src="./assets/banner_short.png" alt="Nishith Prajapati — Lead Flutter Engineer" width="100%" />
 
-<p align="center">
-  <a href="https://nishith.yunawise.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Lead+Flutter+Engineer+%7C+Ships+to+both+stores;60fps+on+cheap+hardware+%7C+Ahmedabad%2C+IST" alt="Lead Flutter Engineer | Ships to both stores — 60fps on cheap hardware | Ahmedabad, IST" />
-  </a>
-</p>
+<h3 align="center">Lead Flutter Engineer · Ships to both stores · 60fps on cheap hardware</h3>
+<p align="center">Ahmedabad, India · IST · Remote-friendly</p>
 
 <p align="center">
   <a href="https://nishith.yunawise.com"><img src="https://img.shields.io/badge/Portfolio-nishith.yunawise.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
